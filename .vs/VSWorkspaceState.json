@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WebAppOrder",
+    "\\WebAppOrder\\Domain",
+    "\\WebAppOrder\\Domain\\SharedKernel",
+    "\\WebAppOrder\\Domain\\SharedKernel\\Models"
+  ],
+  "SelectedNode": "\\AppOrderWorker.sln",
+  "PreviewInSolutionExplorer": false
+}
